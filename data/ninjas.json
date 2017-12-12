@@ -1,0 +1,25 @@
+[{
+    "name": "Yuki",
+    "belt": "green",
+    "rate": 50,
+    "available": true,
+    "thumb": "content/Images/ninja1.jpg"
+}, {
+    "name": "Shangai",
+    "belt": "yellow",
+    "rate": 100,
+    "available": true,
+    "thumb": "content/Images/ninja2.jpg"
+}, {
+    "name": "Markie",
+    "belt": "orange",
+    "rate": 500,
+    "available": true,
+    "thumb": "content/Images/ninja3.jpg"
+}, {
+    "name": "Kai",
+    "belt": "black",
+    "rate": 1000,
+    "available": true,
+    "thumb": "content/Images/ninja4.jpg"
+}]
